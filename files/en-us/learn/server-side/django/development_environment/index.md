@@ -343,6 +343,10 @@ python3 -m django --version
 # Windows
 py -3 -m django --version
  4.0.2
+ 
+# Windows 10 on comand prompt
+python3 -m django --version
+ 4.0.2
 ```
 
 > **Note:** If the above Windows command does not show a django module present, try:
